@@ -1,4 +1,4 @@
-class progam
+class progam helloworld
  {
      public static void main(String args[])
 {
